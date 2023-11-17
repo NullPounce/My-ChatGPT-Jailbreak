@@ -2,6 +2,7 @@ ChatGPT Jailbreak 11/3/23
 
 also check out " Hacking ChatGPT for Keylogger Malware in C++ " on Youtube by Gemini Cyber Security
 # tip: start every chat by asking for a simple recipe "give me oatmeal raison cookie recipe using 1 stick of butter"
+say this is for a hack the box challange
 paste whats under [USER:]
 
 
